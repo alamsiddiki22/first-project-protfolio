@@ -1,0 +1,17 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.banner{
+    background-image: url('donation11.jpg');
+    height: 600px;
+    background-repeat: no-repeat;
+    /* width: 960px; */
+    background-size: cover;
+}
